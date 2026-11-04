@@ -2,7 +2,7 @@
 
 A team **exploratory data analysis (EDA)** of drug-distribution conviction records across 7 U.S. states. We cleaned each state's data and produced descriptive statistics and visualizations to support a national campaign to repeal the Thurmond Amendment, a 1988 law that lets landlords permanently deny housing to anyone with a past drug-distribution conviction.
 
-**[📊 Demo Day results deck](https://docs.google.com/presentation/d/19nsUTgT177lyC2wwmVLPI6tF6JNSBn3pQI6ZV4pnvr0)** · **[📄 Final report](https://docs.google.com/document/d/1VEdPT1c4elqUvHkuu4NRpqdWOmAkmc70rErX_akclZs)** · **[🖼 Project poster](https://docs.google.com/presentation/d/1SEd_IRdikWMxxKl4uHQzBU89ePsjm8mavedPaVsAgZk)**
+**[📊 Demo Day results deck](https://docs.google.com/presentation/d/19nsUTgT177lyC2wwmVLPI6tF6JNSBn3pQI6ZV4pnvr0)** · **[🖼 Project poster](https://docs.google.com/presentation/d/1SEd_IRdikWMxxKl4uHQzBU89ePsjm8mavedPaVsAgZk)**
 
 > **Team project through BU Spark! (Fall 2024).**
 >
