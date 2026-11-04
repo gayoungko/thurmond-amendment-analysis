@@ -6,7 +6,7 @@ A team **exploratory data analysis (EDA)** of drug-distribution conviction recor
 
 > **Team project through BU Spark! (Fall 2024).**
 >
-> **Team:** Matthew Cheng (Data Science), Manav Kandoi (Computer Science), Gayoung (Ellena) Ko (Data Science) and Ozgur Sen (Data Science).
+> **Team:** Matthew Cheng, Manav Kandoi, Gayoung (Ellena) Ko and Ozgur Sen.
 >
 > Mentors: Oluwatamilore Ajibade (Project Manager), Ethan Chang (Technical Project Manager) and Professor Jessica Simes (Expert-in-Residence). We met regularly with the client and presented the results at BU Spark! Demo Day.
 
@@ -68,6 +68,7 @@ This was descriptive, exploratory work, not causal analysis. Even so, the patter
 
 ## Challenges and limitations
 
+- **Defining a "minor" drug conviction:** the hardest question was what quantity counts as small-scale. Each drug has its own threshold (a few grams of heroin is not comparable to a few grams of marijuana), and states record quantities in different units and buckets, when they record them at all. We had to set drug-specific thresholds, or use proxies such as sentence length or court type where quantities were missing, before we could say how many convictions were minor.
 - **Inconsistent data:** every state recorded convictions differently, with different fields, drug categories and quantity buckets. A single shared framework let us compare them.
 - **Data quality:** some records were clearly wrong (for example, one Ohio entry listed 470,000,000g of cocaine). We flagged these, verified them against the raw data, and applied cutoffs.
 - **Missing fields:** Virginia had no demographic data. North Carolina's data was too sparse after cleaning, so we dropped it together with the client.
