@@ -8,7 +8,7 @@ A team **exploratory data analysis (EDA)** of drug-distribution conviction recor
 >
 > **Team:** Matthew Cheng, Manav Kandoi, Gayoung (Ellena) Ko and Ozgur Sen.
 >
-> Mentors: Oluwatamilore Ajibade (Project Manager), Ethan Chang (Technical Project Manager) and Professor Jessica Simes (Expert-in-Residence). We met regularly with the client and presented the results at BU Spark! Demo Day.
+> Mentors: Oluwatamilore Ajibade (Project Manager), Ethan Chang (Technical Project Manager) and Professor Jessica Simes (Expert-in-Residence). We met regularly with the client and presented the results at BU Spark! Demo Day. Findings were also presented to Yusuf Dahl and representatives from the Drug Policy Alliance and Dream.org.
 
 ### My role
 
